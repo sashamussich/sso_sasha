@@ -50,5 +50,7 @@ end
 #omniatuh gems
 gem 'omniauth-facebook', '~> 3.0'
 gem 'omniauth-github', '~> 1.1', '>= 1.1.2'
-gem 'omniauth-google-oauth2', '~> 0.4.1'
+gem 'omniauth-google-oauth2'
 gem 'devise'
+
+gem 'thin'
